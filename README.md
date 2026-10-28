@@ -2,6 +2,11 @@
 
 A desktop application built with Qt6/C++ that automatically scans a folder, categorizes files by extension, and organizes them into subfolders — all without freezing the UI, thanks to background threading.
 
+## Project Showcase
+
+Watch the full working demonstration here:
+**https://youtube.com/shorts/RxWofvCTelI?feature=share**
+
 ## Features
 
 - **Folder selection** — pick any directory via a native folder picker dialog
